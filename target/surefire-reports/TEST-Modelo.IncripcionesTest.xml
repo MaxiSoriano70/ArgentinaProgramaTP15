@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="3" name="Modelo.IncripcionesTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.6+9-LTS-190"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="user.country.format" value="AR"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\leone\Downloads\ArgentinaProgramaTP15-master"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\leone\Downloads\ArgentinaProgramaTP15-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\leone\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Users\leone\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3638545115530497002.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-17/bin/server;C:/Program Files/Java/jdk-17/bin;C:/Users/leone/AppData/Local/Temp/eoiEF2.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;C:/Users/leone/AppData/Local/Temp/eoiEF2.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\Program Files\Google\Chrome\Application;c:\program files\common files\oracle\java\javapath;c:\program files (x86)\common files\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\nvidia corporation\nvidia nvdlisr;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\git\cmd;c:\program files\putty\;c:\program files\powershell\7\;c:\program files\docker\docker\resources\bin;c:\programdata\chocolatey\bin;c:\program files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\leone\miniconda3;C:\Users\leone\miniconda3\Library\mingw-w64\bin;C:\Users\leone\miniconda3\Library\usr\bin;C:\Users\leone\miniconda3\Library\bin;C:\Users\leone\miniconda3\Scripts;C:\Users\leone\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\leone\AppData\Local\Programs\Python\Python311\;C:\Users\leone\AppData\Local\Microsoft\WindowsApps;C:\Users\leone\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\leone\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\leone\AppData\Local\GitHubDesktop\bin;C:\Users\leone\AppData\Local\Programs\Neovim\bin;C:\Users\leone\AppData\Roaming\npm;C:\Users\leone\Downloads;;C:\Users\leone\Downloads;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\leone"/>
+    <property name="user.timezone" value="America/Buenos_Aires"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="leone"/>
+    <property name="java.class.path" value="C:\Users\leone\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language.format" value="es"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.6"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\leone\Downloads\ArgentinaProgramaTP15-master\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="m2e.build.project.data.socket.port" value="51345"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Modelo.IncripcionesTest" name="Modelo.IncripcionesTest.testTrueIsPosibleInscribirsePorMateriaCorrelativa" time="0.003">
+    <failure message="org/junit/Assert" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/junit/Assert
+	at Modelo.IncripcionesTest.testTrueIsPosibleInscribirsePorMateriaCorrelativa(IncripcionesTest.java:33)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 19 more
+</failure>
+  </testcase>
+  <testcase classname="Modelo.IncripcionesTest" name="Modelo.IncripcionesTest.testFalseIsPosibleInscribirsePorMateriaCorrelativa" time="0">
+    <failure message="org/junit/Assert" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/junit/Assert
+	at Modelo.IncripcionesTest.testFalseIsPosibleInscribirsePorMateriaCorrelativa(IncripcionesTest.java:20)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 19 more
+</failure>
+  </testcase>
+  <testcase classname="Modelo.IncripcionesTest" name="Modelo.IncripcionesTest.testFalseIsPosibleInscribirse" time="0">
+    <failure message="org/junit/Assert" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/junit/Assert
+	at Modelo.IncripcionesTest.testFalseIsPosibleInscribirse(IncripcionesTest.java:50)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 19 more
+</failure>
+  </testcase>
+</testsuite>

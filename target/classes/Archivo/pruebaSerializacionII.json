@@ -1,0 +1,12 @@
+{
+  "alumno" : {
+    "nombre" : "Soledad",
+    "legajo" : 1615,
+    "aprobadas" : null
+  },
+  "materia" : {
+    "nombre" : "Lab1",
+    "codigo" : 1
+  },
+  "fecha" : null
+}
